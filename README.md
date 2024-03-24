@@ -1,5 +1,7 @@
 # SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1
 1. Créer l'interface IDao avec une méthode getDate
+
+   
    ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/83f90c08-c366-4908-8051-49a375dcc54b)
 
 3. Créer une implémentation de cette interface 
