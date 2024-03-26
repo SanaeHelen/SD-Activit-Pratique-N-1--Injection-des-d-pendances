@@ -8,10 +8,11 @@ public class Pres1 {
         //  l'injection des dépendances
         //  a. Par instanciation statique
         DaoImpl dao = new DaoImpl();
-        MetierImpl metier = new MetierImpl();
-        metier.setDao(dao);
+        MetierImpl metier = new MetierImpl(dao); // Injection via le constructeur
         System.out.println("Resultat = "+ metier.calcul());
 
     }
 
 }
+
+
