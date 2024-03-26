@@ -62,7 +62,7 @@
    Fichier config.xml:
               ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/e199bd39-ef83-46d7-aab8-a06b058f0245)
               
-   Presentation Avec Spring : 
+   Presentation Avec Spring Xml : 
              ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/5ce09a02-344d-48ac-8b23-87a19043d3d8)
              
   Output :
