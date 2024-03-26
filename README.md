@@ -7,11 +7,8 @@
 3. Créer une implémentation de cette interface
    
 
-   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/f55c4514-b3f4-4796-8ebd-2f9e9bec5d72)
+   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/f3cc7957-1e68-475a-80d9-347e4a122cff)
 
-   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/df090ff2-540b-4a3d-9964-7a96fbe43d6c)
-
-   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/38ea7ddf-0e34-4ee2-965c-c4fa99f8a940)
 
 
 
@@ -23,18 +20,56 @@
 7. Créer une implémentation de cette interface en utilisant le couplage faible
    
 
-   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/80f39a5b-cf5f-485f-932f-bcd325d53547)
+   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/3fcf1d8f-2108-4ddf-b565-cd2e8dfa6afd)
+
 
 9. Faire l'injection des dépendances :
   a. Par instanciation statique
 
 
-    ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/ee27d5df-068f-4079-81e5-4ee48a9b7801)
+    ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/4d6ad9a1-6ca5-4932-a30c-598566275116)
+
+
+   Output : 
+
+
+   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/4d10be4f-e4ad-490e-a3f7-6fa126900f69)
+
+
 
   b. Par instanciation dynamique
 
 
-   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/7a92c314-fdf1-48e7-b1c6-9b4c2ac3ce3a)
+   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/61b0f2a3-d6cd-48f1-8360-077591ba27ff)
 
-   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/8768a4db-17a5-4d26-b79d-90caa6cf6958)
 
+  Output : 
+
+
+  ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/d8899e47-b880-4a4d-8415-d961fda62b76)
+
+
+   c. En utilisant le Framework Spring
+      
+- Version XML
+       
+   Fichier config.xml:
+              ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/e199bd39-ef83-46d7-aab8-a06b058f0245)
+              
+   Presentation Avec Spring : 
+             ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/5ce09a02-344d-48ac-8b23-87a19043d3d8)
+             
+  Output :
+  
+  ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/0d0fd215-2c10-4056-9f49-2430d2a4cc83)
+
+- Version annotations :
+     
+   ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/95440154-0b07-4400-bceb-d6991d9a6fe3)
+
+
+Output : 
+
+![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/a78609e9-8bea-4c44-add9-4f35dc815a7d)
+
+       
