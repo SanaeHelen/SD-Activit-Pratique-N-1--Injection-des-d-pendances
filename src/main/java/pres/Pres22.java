@@ -4,7 +4,6 @@ import dao.IDao;
 import metier.IMetier;
 
 import java.util.Scanner;
-import java.lang.reflect.*;
 
 public class Pres22 {
     public static void main(String[] args) throws Exception {
