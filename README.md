@@ -29,6 +29,9 @@
 
     ![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/4d6ad9a1-6ca5-4932-a30c-598566275116)
 
+fichier config.txt : 
+
+![image](https://github.com/SanaeHelen/SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1/assets/136022070/b4f3dd95-65fc-4d6c-adec-e0cbb3ce5521)
 
    Output : 
 
