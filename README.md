@@ -1,4 +1,4 @@
-# SD-Activit-Pratique-N-1--Injection-des-d-pendances-P1
+# SD-Activit-Pratique-N-1--Injection-des-d-pendances
 1. Créer l'interface IDao avec une méthode getDate
 
    
